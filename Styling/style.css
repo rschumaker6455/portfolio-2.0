@@ -1,0 +1,26 @@
+.menu {
+    font-size: 25px;
+}
+
+#my-info {
+    background-color:rgb(215, 238, 250);
+}
+
+#mainbar {
+    background-image: url() ;
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+#hello {
+    font-size: 35px;
+}
+
+h5 {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+
+
+
