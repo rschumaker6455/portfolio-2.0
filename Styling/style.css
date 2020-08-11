@@ -1,16 +1,12 @@
 .menu {
-    font-size: 25px;
+    font-size: 20px;
 }
 
 #my-info {
     background-color:rgb(215, 238, 250);
 }
 
-#mainbar {
-    background-image: url() ;
-    background-size: 100%;
-    background-repeat: no-repeat;
-}
+
 
 #hello {
     font-size: 35px;
@@ -19,6 +15,27 @@
 h5 {
     font-size: 20px;
     font-weight: bold;
+}
+
+#body {
+    background-origin: initial;
+    background-color:rgb(215, 238, 250);
+    background-image: url("../Assets/flower.jpg");
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    
+}
+
+#wrapper {
+    padding-bottom: 500px;
+    padding-right: 10px;
+    padding-left: 10px;
+}
+
+#contact {
+    display: flex;
+    
 }
 
 
