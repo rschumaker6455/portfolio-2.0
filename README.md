@@ -8,4 +8,4 @@ This is a screenshot of the deployed application:
 
 
 This is a link to the deployed application:
-[Portfolio](https://rschumaker6455.github.io/homework-2-responsive-portfolio/)
+[Portfolio](https://rschumaker6455.github.io/portfolio-2.0/)
