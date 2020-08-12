@@ -3,7 +3,7 @@
 In this application you will find a background story on Ruth, her featured projects and contact info. 
 
 This is a screenshot of the deployed application:
-![Application screenshot](https://user-images.githubusercontent.com/63169637/89722319-1a25d000-d99d-11ea-8e80-2d4b3b11ffb1.png)
+![Application screenshot](https://user-images.githubusercontent.com/63169637/89960565-3f604b80-dbf4-11ea-9ac5-6c0cff17c4a1.png)
 
 
 
