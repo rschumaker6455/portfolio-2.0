@@ -3,9 +3,12 @@
 }
 
 #my-info {
-    background-color:rgb(215, 238, 250);
+    background-color: rgb(242, 172, 240);
 }
 
+#mainbar {
+    background-color: rgb(242, 172, 240); 
+}
 
 
 #hello {
@@ -19,7 +22,7 @@ h5 {
 
 #body {
     background-origin: initial;
-    background-color:rgb(215, 238, 250);
+    background-color:rgb(242, 172, 240);
     background-image: url("../Assets/flower.jpg");
     background-size: cover;
     background-attachment: fixed;
@@ -28,7 +31,7 @@ h5 {
 }
 
 #wrapper {
-    padding-bottom: 500px;
+    padding-bottom: 700px;
     padding-right: 10px;
     padding-left: 10px;
 }
